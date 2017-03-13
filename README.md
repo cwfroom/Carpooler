@@ -8,8 +8,11 @@ This app was originally built as a final project for ITP342: Mobile Application 
 # Design Doc
 https://github.com/cwfroom/Carpooler/blob/master/DESIGNDOC.pdf
 
-# API
-## Image Picker
-## Core Location
-## Google Map
-## Firebase
+# Main API's
+- Image Picker
+- Core Location
+- Google Map (3rd party)
+- Firebase (3rd party)
+
+# Build
+Google Map and Firebase need to be installed. Fill out API keys in AppDelegate.cpp. Storyboard originally designed within iPhone 6 screen size.
