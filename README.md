@@ -5,8 +5,11 @@ This app was originally built as a final project for ITP342: Mobile Application 
 # Demo Video
 
 
-# Design
+# Design Doc
+https://github.com/cwfroom/Carpooler/blob/master/DESIGNDOC.pdf
 
-# 3rd Party API
-Google Map
-Firebase
+# API
+## Image Picker
+## Core Location
+## Google Map
+## Firebase
